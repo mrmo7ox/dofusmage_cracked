@@ -9,7 +9,7 @@ The key result was reaching the main features without a valid authenticated sess
 
 ## Screenshots
 
-### Main UI (After Bypass)
+### From
 
 ![before](screenshots/before.png)
 
