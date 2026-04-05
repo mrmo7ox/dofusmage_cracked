@@ -11,10 +11,10 @@ The key result was reaching the main features without a valid authenticated sess
 
 ### From
 
-![before](screenshots/before.png)
+![before](screenshots/before.jpg)
 
 ### To
 
-![after](screenshots/after.png)
+![after](screenshots/after.jpg)
 
 
