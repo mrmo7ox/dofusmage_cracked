@@ -1,0 +1,572 @@
+[
+  {
+    "statId": 795,
+    "name": "Arme de chasse",
+    "weight": 5.0,
+    "runes": [
+      { "name": "Rune de chasse", "value": 1, "tier": "Normal", "gid": 10057 }
+    ]
+  },
+  {
+    "statId": 125,
+    "name": "Vitalité",
+    "weight": 0.2,
+    "buThreshold": 168,
+    "suThreshold": 336,
+    "max": 505,
+    "runes": [
+      { "name": "Rune Vi", "value": 5, "tier": "Normal", "gid": 1523 },
+      { "name": "Rune Pa Vi", "value": 15, "tier": "Bu", "gid": 1548 },
+      { "name": "Rune Ra Vi", "value": 50, "tier": "Su", "gid": 1554 }
+    ]
+  },
+  {
+    "statId": 118,
+    "name": "Force",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Rune Fo", "value": 1, "tier": "Normal", "gid": 1519 },
+      { "name": "Rune Pa Fo", "value": 3, "tier": "Bu", "gid": 1545 },
+      { "name": "Rune Ra Fo", "value": 10, "tier": "Su", "gid": 1551 }
+    ]
+  },
+  {
+    "statId": 126,
+    "name": "Intelligence",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Rune Ine", "value": 1, "tier": "Normal", "gid": 1522 },
+      { "name": "Rune Pa Ine", "value": 3, "tier": "Bu", "gid": 1547 },
+      { "name": "Rune Ra Ine", "value": 10, "tier": "Su", "gid": 1553 }
+    ]
+  },
+  {
+    "statId": 123,
+    "name": "Chance",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Rune Cha", "value": 1, "tier": "Normal", "gid": 1525 },
+      { "name": "Rune Pa Cha", "value": 3, "tier": "Bu", "gid": 1550 },
+      { "name": "Rune Ra Cha", "value": 10, "tier": "Su", "gid": 1556 }
+    ]
+  },
+  {
+    "statId": 119,
+    "name": "Agilité",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Rune Age", "value": 1, "tier": "Normal", "gid": 1524 },
+      { "name": "Rune Pa Age", "value": 3, "tier": "Bu", "gid": 1549 },
+      { "name": "Rune Ra Age", "value": 10, "tier": "Su", "gid": 1555 }
+    ]
+  },
+  {
+    "statId": 124,
+    "name": "Sagesse",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "suThreshold": 40,
+    "max": 60,
+    "runes": [
+      { "name": "Rune Sa", "value": 1, "tier": "Normal", "gid": 1521 },
+      { "name": "Rune Pa Sa", "value": 3, "tier": "Bu", "gid": 1546 },
+      { "name": "Rune Ra Sa", "value": 10, "tier": "Su", "gid": 1552 }
+    ]
+  },
+  {
+    "statId": 138,
+    "name": "Puissance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Pui", "value": 1, "tier": "Normal", "gid": 7436 },
+      { "name": "Rune Pa Pui", "value": 3, "tier": "Bu", "gid": 10618 },
+      { "name": "Rune Ra Pui", "value": 10, "tier": "Su", "gid": 10619 }
+    ]
+  },
+  {
+    "statId": 115,
+    "name": "Critique",
+    "weight": 10.0,
+    "max": 10,
+    "runes": [
+      { "name": "Rune Cri", "value": 1, "tier": "Normal", "gid": 7433 }
+    ]
+  },
+  {
+    "statId": 111,
+    "name": "PA",
+    "weight": 100.0,
+    "max": 1,
+    "runes": [
+      { "name": "Rune Ga Pa", "value": 1, "tier": "Normal", "gid": 1557 }
+    ]
+  },
+  {
+    "statId": 128,
+    "name": "PM",
+    "weight": 90.0,
+    "max": 1,
+    "runes": [
+      { "name": "Rune Ga Pme", "value": 1, "tier": "Normal", "gid": 1558 }
+    ]
+  },
+  {
+    "statId": 117,
+    "name": "Portée",
+    "weight": 51.0,
+    "max": 1,
+    "runes": [
+      { "name": "Rune Po", "value": 1, "tier": "Normal", "gid": 7438 }
+    ]
+  },
+  {
+    "statId": 182,
+    "name": "Invocation",
+    "weight": 30.0,
+    "max": 3,
+    "runes": [
+      { "name": "Rune Invo", "value": 1, "tier": "Normal", "gid": 7442 }
+    ]
+  },
+  {
+    "statId": 112,
+    "name": "Dommage",
+    "weight": 20.0,
+    "max": 5,
+    "runes": [
+      { "name": "Rune Do", "value": 1, "tier": "Normal", "gid": 7435 }
+    ]
+  },
+  {
+    "statId": 430,
+    "name": "Dommage Neutre",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Neutre", "value": 1, "tier": "Normal", "gid": 11665 },
+      { "name": "Rune Pa Do Neutre", "value": 3, "tier": "Bu", "gid": 11666 }
+    ]
+  },
+  {
+    "statId": 422,
+    "name": "Dommage Terre",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Terre", "value": 1, "tier": "Normal", "gid": 11657 },
+      { "name": "Rune Pa Do Terre", "value": 3, "tier": "Bu", "gid": 11658 }
+    ]
+  },
+  {
+    "statId": 424,
+    "name": "Dommage Feu",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Feu", "value": 1, "tier": "Normal", "gid": 11659 },
+      { "name": "Rune Pa Do Feu", "value": 3, "tier": "Bu", "gid": 11660 }
+    ]
+  },
+  {
+    "statId": 426,
+    "name": "Dommage Eau",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Eau", "value": 1, "tier": "Normal", "gid": 11661 },
+      { "name": "Rune Pa Do Eau", "value": 3, "tier": "Bu", "gid": 11662 }
+    ]
+  },
+  {
+    "statId": 428,
+    "name": "Dommage Air",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Air", "value": 1, "tier": "Normal", "gid": 11663 },
+      { "name": "Rune Pa Do Air", "value": 3, "tier": "Bu", "gid": 11664 }
+    ]
+  },
+  {
+    "statId": 178,
+    "name": "Soin",
+    "weight": 10.0,
+    "buThreshold": 3,
+    "max": 10,
+    "runes": [
+      { "name": "Rune So", "value": 1, "tier": "Normal", "gid": 7434 },
+      { "name": "Rune Pa So", "value": 3, "tier": "Bu", "gid": 19337 }
+    ]
+  },
+  {
+    "statId": 176,
+    "name": "Prospection",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "max": 33,
+    "runes": [
+      { "name": "Rune Prospe", "value": 1, "tier": "Normal", "gid": 7451 },
+      { "name": "Rune Pa Prospe", "value": 3, "tier": "Bu", "gid": 12838 }
+    ]
+  },
+  {
+    "statId": 174,
+    "name": "Initiative",
+    "weight": 0.1,
+    "buThreshold": 336,
+    "suThreshold": 673,
+    "max": 1010,
+    "runes": [
+      { "name": "Rune Ini", "value": 10, "tier": "Normal", "gid": 7448 },
+      { "name": "Rune Pa Ini", "value": 30, "tier": "Bu", "gid": 7449 },
+      { "name": "Rune Ra Ini", "value": 100, "tier": "Su", "gid": 7450 }
+    ]
+  },
+  {
+    "statId": 158,
+    "name": "Pods",
+    "weight": 0.25,
+    "buThreshold": 134,
+    "suThreshold": 269,
+    "max": 404,
+    "runes": [
+      { "name": "Rune Pod", "value": 10, "tier": "Normal", "gid": 7443 },
+      { "name": "Rune Pa Pod", "value": 30, "tier": "Bu", "gid": 7444 },
+      { "name": "Rune Ra Pod", "value": 100, "tier": "Su", "gid": 7445 }
+    ]
+  },
+  {
+    "statId": 214,
+    "name": "Résistance % Neutre",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Rune Ré Per Neutre", "value": 1, "tier": "Normal", "gid": 7460 }
+    ]
+  },
+  {
+    "statId": 210,
+    "name": "Résistance % Terre",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Rune Ré Per Terre", "value": 1, "tier": "Normal", "gid": 7459 }
+    ]
+  },
+  {
+    "statId": 213,
+    "name": "Résistance % Feu",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Rune Ré Per Feu", "value": 1, "tier": "Normal", "gid": 7457 }
+    ]
+  },
+  {
+    "statId": 211,
+    "name": "Résistance % Eau",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Rune Ré Per Eau", "value": 1, "tier": "Normal", "gid": 7560 }
+    ]
+  },
+  {
+    "statId": 212,
+    "name": "Résistance % Air",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Rune Ré Per Air", "value": 1, "tier": "Normal", "gid": 7458 }
+    ]
+  },
+  {
+    "statId": 244,
+    "name": "Résistance Neutre",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Neutre", "value": 1, "tier": "Normal", "gid": 7456 },
+      { "name": "Rune Pa Ré Neutre", "value": 3, "tier": "Bu", "gid": 19341 },
+      { "name": "Rune Ra Ré Neutre", "value": 10, "tier": "Su", "gid": 30696 }
+    ]
+  },
+  {
+    "statId": 240,
+    "name": "Résistance Terre",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Terre", "value": 1, "tier": "Normal", "gid": 7455 },
+      { "name": "Rune Pa Ré Terre", "value": 3, "tier": "Bu", "gid": 19342 },
+      { "name": "Rune Ra Ré Terre", "value": 10, "tier": "Su", "gid": 30695 }
+    ]
+  },
+  {
+    "statId": 243,
+    "name": "Résistance Feu",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Feu", "value": 1, "tier": "Normal", "gid": 7452 },
+      { "name": "Rune Pa Ré Feu", "value": 3, "tier": "Bu", "gid": 19340 },
+      { "name": "Rune Ra Ré Feu", "value": 10, "tier": "Su", "gid": 30697 }
+    ]
+  },
+  {
+    "statId": 241,
+    "name": "Résistance Eau",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Eau", "value": 1, "tier": "Normal", "gid": 7454 },
+      { "name": "Rune Pa Ré Eau", "value": 3, "tier": "Bu", "gid": 19339 },
+      { "name": "Rune Ra Ré Eau", "value": 10, "tier": "Su", "gid": 30698 }
+    ]
+  },
+  {
+    "statId": 242,
+    "name": "Résistance Air",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Air", "value": 1, "tier": "Normal", "gid": 7453 },
+      { "name": "Rune Pa Ré Air", "value": 3, "tier": "Bu", "gid": 19338 },
+      { "name": "Rune Ra Ré Air", "value": 10, "tier": "Su", "gid": 30700 }
+    ]
+  },
+  {
+    "statId": 753,
+    "name": "Tacle",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Rune Tac", "value": 1, "tier": "Normal", "gid": 11639 },
+      { "name": "Rune Pa Tac", "value": 3, "tier": "Bu", "gid": 11640 }
+    ]
+  },
+  {
+    "statId": 752,
+    "name": "Fuite",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Rune Fui", "value": 1, "tier": "Normal", "gid": 11637 },
+      { "name": "Rune Pa Fui", "value": 3, "tier": "Bu", "gid": 11638 }
+    ]
+  },
+  {
+    "statId": 410,
+    "name": "Retrait PA",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Rune Ret Pa", "value": 1, "tier": "Normal", "gid": 11645 },
+      { "name": "Rune Pa Ret Pa", "value": 3, "tier": "Bu", "gid": 11646 }
+    ]
+  },
+  {
+    "statId": 412,
+    "name": "Retrait PM",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Rune Ret Pme", "value": 1, "tier": "Normal", "gid": 11647 },
+      { "name": "Rune Pa Ret Pme", "value": 3, "tier": "Bu", "gid": 11648 }
+    ]
+  },
+  {
+    "statId": 160,
+    "name": "Esquive PA",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Rune Ré Pa", "value": 1, "tier": "Normal", "gid": 11641 },
+      { "name": "Rune Pa Ré Pa", "value": 3, "tier": "Bu", "gid": 11642 }
+    ]
+  },
+  {
+    "statId": 161,
+    "name": "Esquive PM",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Rune Ré Pme", "value": 1, "tier": "Normal", "gid": 11643 },
+      { "name": "Rune Pa Ré Pme", "value": 3, "tier": "Bu", "gid": 11644 }
+    ]
+  },
+  {
+    "statId": 418,
+    "name": "Dommage Critiques",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Cri", "value": 1, "tier": "Normal", "gid": 11653 },
+      { "name": "Rune Pa Do Cri", "value": 3, "tier": "Bu", "gid": 11654 }
+    ]
+  },
+  {
+    "statId": 420,
+    "name": "Résistance Critiques",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Cri", "value": 1, "tier": "Normal", "gid": 11655 },
+      { "name": "Rune Pa Ré Cri", "value": 3, "tier": "Bu", "gid": 11656 },
+      { "name": "Rune Ra Ré Cri", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 414,
+    "name": "Dommage Poussée",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Pou", "value": 1, "tier": "Normal", "gid": 11649 },
+      { "name": "Rune Pa Do Pou", "value": 3, "tier": "Bu", "gid": 11650 },
+      { "name": "Rune Ra Do Pou", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 416,
+    "name": "Résistance Poussée",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Ré Pou", "value": 1, "tier": "Normal", "gid": 11651 },
+      { "name": "Rune Pa Ré Pou", "value": 3, "tier": "Bu", "gid": 11652 },
+      { "name": "Rune Ra Ré Pou", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 226,
+    "name": "Puissance Pièges",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Rune Per Pi", "value": 1, "tier": "Normal", "gid": 7447 },
+      { "name": "Rune Pa Per Pi", "value": 3, "tier": "Bu", "gid": 10615 },
+      { "name": "Rune Ra Per Pi", "value": 10, "tier": "Su", "gid": 10616 }
+    ]
+  },
+  {
+    "statId": 225,
+    "name": "Dommage Pièges",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Rune Do Pi", "value": 1, "tier": "Normal", "gid": 7446 },
+      { "name": "Rune Pa Do Pi", "value": 3, "tier": "Bu", "gid": 10613 }
+    ]
+  },
+  {
+    "statId": 220,
+    "name": "Dommages Renvoyés",
+    "weight": 5.0,
+    "max": 10,
+    "runes": [
+      { "name": "Rune Do Ren", "value": 1, "tier": "Normal", "gid": 7437 },
+      { "name": "Rune Pa Do Ren", "value": 3, "tier": "Bu", "gid": 30942 }
+    ]
+  },
+  {
+    "statId": 2880,
+    "name": "Dommages % Mêlée",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Do Per Mé", "value": 1, "tier": "Normal", "gid": 18719 }
+    ]
+  },
+  {
+    "statId": 2804,
+    "name": "Dommages % Distance",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Do Per Di", "value": 1, "tier": "Normal", "gid": 18720 }
+    ]
+  },
+  {
+    "statId": 2812,
+    "name": "Dommages % Sorts",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Do Per So", "value": 1, "tier": "Normal", "gid": 18722 }
+    ]
+  },
+  {
+    "statId": 2808,
+    "name": "Dommages % Armes",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Do Ar", "value": 1, "tier": "Normal", "gid": 18721 }
+    ]
+  },
+  {
+    "statId": 2803,
+    "name": "Résistance % Mêlée",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Ré Per Mé", "value": 1, "tier": "Normal", "gid": 18723 }
+    ]
+  },
+  {
+    "statId": 2807,
+    "name": "Résistance % Distance",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Rune Ré Per Di", "value": 1, "tier": "Normal", "gid": 18724 }
+    ]
+  },
+  {
+    "statId": null,
+    "name": "Signature",
+    "weight": 0.0,
+    "runes": [
+      { "name": "Rune de Signature", "value": 0, "tier": "Normal", "gid": null }
+    ]
+  }
+]

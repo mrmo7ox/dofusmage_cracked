@@ -1,0 +1,572 @@
+[
+  {
+    "statId": 795,
+    "name": "Hunting Weapon",
+    "weight": 5.0,
+    "runes": [
+      { "name": "Hunting Rune", "value": 1, "tier": "Normal", "gid": 10057 }
+    ]
+  },
+  {
+    "statId": 125,
+    "name": "Vitality",
+    "weight": 0.2,
+    "buThreshold": 168,
+    "suThreshold": 336,
+    "max": 505,
+    "runes": [
+      { "name": "Vit Rune", "value": 5, "tier": "Normal", "gid": 1523 },
+      { "name": "Pa Vit Rune", "value": 15, "tier": "Bu", "gid": 1548 },
+      { "name": "Ra Vit Rune", "value": 50, "tier": "Su", "gid": 1554 }
+    ]
+  },
+  {
+    "statId": 118,
+    "name": "Strength",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Str Rune", "value": 1, "tier": "Normal", "gid": 1519 },
+      { "name": "Pa Str Rune", "value": 3, "tier": "Bu", "gid": 1545 },
+      { "name": "Ra Str Rune", "value": 10, "tier": "Su", "gid": 1551 }
+    ]
+  },
+  {
+    "statId": 126,
+    "name": "Intelligence",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Int Rune", "value": 1, "tier": "Normal", "gid": 1522 },
+      { "name": "Pa Int Rune", "value": 3, "tier": "Bu", "gid": 1547 },
+      { "name": "Ra Int Rune", "value": 10, "tier": "Su", "gid": 1553 }
+    ]
+  },
+  {
+    "statId": 123,
+    "name": "Chance",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Cha Rune", "value": 1, "tier": "Normal", "gid": 1525 },
+      { "name": "Pa Cha Rune", "value": 3, "tier": "Bu", "gid": 1550 },
+      { "name": "Ra Cha Rune", "value": 10, "tier": "Su", "gid": 1556 }
+    ]
+  },
+  {
+    "statId": 119,
+    "name": "Agility",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Agi Rune", "value": 1, "tier": "Normal", "gid": 1524 },
+      { "name": "Pa Agi Rune", "value": 3, "tier": "Bu", "gid": 1549 },
+      { "name": "Ra Agi Rune", "value": 10, "tier": "Su", "gid": 1555 }
+    ]
+  },
+  {
+    "statId": 124,
+    "name": "Wisdom",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "suThreshold": 40,
+    "max": 60,
+    "runes": [
+      { "name": "Wis Rune", "value": 1, "tier": "Normal", "gid": 1521 },
+      { "name": "Pa Wis Rune", "value": 3, "tier": "Bu", "gid": 1546 },
+      { "name": "Ra Wis Rune", "value": 10, "tier": "Su", "gid": 1552 }
+    ]
+  },
+  {
+    "statId": 138,
+    "name": "Power",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Pow Rune", "value": 1, "tier": "Normal", "gid": 7436 },
+      { "name": "Pa Pow Rune", "value": 3, "tier": "Bu", "gid": 10618 },
+      { "name": "Ra Pow Rune", "value": 10, "tier": "Su", "gid": 10619 }
+    ]
+  },
+  {
+    "statId": 115,
+    "name": "Critical",
+    "weight": 10.0,
+    "max": 10,
+    "runes": [
+      { "name": "Cri Rune", "value": 1, "tier": "Normal", "gid": 7433 }
+    ]
+  },
+  {
+    "statId": 111,
+    "name": "AP",
+    "weight": 100.0,
+    "max": 1,
+    "runes": [
+      { "name": "Ap Ga Rune", "value": 1, "tier": "Normal", "gid": 1557 }
+    ]
+  },
+  {
+    "statId": 128,
+    "name": "MP",
+    "weight": 90.0,
+    "max": 1,
+    "runes": [
+      { "name": "Mp Ga Rune", "value": 1, "tier": "Normal", "gid": 1558 }
+    ]
+  },
+  {
+    "statId": 117,
+    "name": "Range",
+    "weight": 51.0,
+    "max": 1,
+    "runes": [
+      { "name": "Range Rune", "value": 1, "tier": "Normal", "gid": 7438 }
+    ]
+  },
+  {
+    "statId": 182,
+    "name": "Summons",
+    "weight": 30.0,
+    "max": 3,
+    "runes": [
+      { "name": "Sum Rune", "value": 1, "tier": "Normal", "gid": 7442 }
+    ]
+  },
+  {
+    "statId": 112,
+    "name": "Damage",
+    "weight": 20.0,
+    "max": 5,
+    "runes": [
+      { "name": "Dam Rune", "value": 1, "tier": "Normal", "gid": 7435 }
+    ]
+  },
+  {
+    "statId": 430,
+    "name": "Neutral Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Neutral Dam Rune", "value": 1, "tier": "Normal", "gid": 11665 },
+      { "name": "Pa Neutral Dam Rune", "value": 3, "tier": "Bu", "gid": 11666 }
+    ]
+  },
+  {
+    "statId": 422,
+    "name": "Earth Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Earth Dam Rune", "value": 1, "tier": "Normal", "gid": 11657 },
+      { "name": "Pa Earth Dam Rune", "value": 3, "tier": "Bu", "gid": 11658 }
+    ]
+  },
+  {
+    "statId": 424,
+    "name": "Fire Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Fire Dam Rune", "value": 1, "tier": "Normal", "gid": 11659 },
+      { "name": "Pa Fire Dam Rune", "value": 3, "tier": "Bu", "gid": 11660 }
+    ]
+  },
+  {
+    "statId": 426,
+    "name": "Water Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Water Dam Rune", "value": 1, "tier": "Normal", "gid": 11661 },
+      { "name": "Pa Water Dam Rune", "value": 3, "tier": "Bu", "gid": 11662 }
+    ]
+  },
+  {
+    "statId": 428,
+    "name": "Air Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Air Dam Rune", "value": 1, "tier": "Normal", "gid": 11663 },
+      { "name": "Pa Air Dam Rune", "value": 3, "tier": "Bu", "gid": 11664 }
+    ]
+  },
+  {
+    "statId": 178,
+    "name": "Heal",
+    "weight": 10.0,
+    "buThreshold": 3,
+    "max": 10,
+    "runes": [
+      { "name": "Hea Rune", "value": 1, "tier": "Normal", "gid": 7434 },
+      { "name": "Pa Hea Rune", "value": 3, "tier": "Bu", "gid": 19337 }
+    ]
+  },
+  {
+    "statId": 176,
+    "name": "Prospecting",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "max": 33,
+    "runes": [
+      { "name": "Pp Rune", "value": 1, "tier": "Normal", "gid": 7451 },
+      { "name": "Pa Pp Rune", "value": 3, "tier": "Bu", "gid": 12838 }
+    ]
+  },
+  {
+    "statId": 174,
+    "name": "Initiative",
+    "weight": 0.1,
+    "buThreshold": 336,
+    "suThreshold": 673,
+    "max": 1010,
+    "runes": [
+      { "name": "Ini Rune", "value": 10, "tier": "Normal", "gid": 7448 },
+      { "name": "Pa Ini Rune", "value": 30, "tier": "Bu", "gid": 7449 },
+      { "name": "Ra Ini Rune", "value": 100, "tier": "Su", "gid": 7450 }
+    ]
+  },
+  {
+    "statId": 158,
+    "name": "Pods",
+    "weight": 0.25,
+    "buThreshold": 134,
+    "suThreshold": 269,
+    "max": 404,
+    "runes": [
+      { "name": "Pod Rune", "value": 10, "tier": "Normal", "gid": 7443 },
+      { "name": "Pa Pod Rune", "value": 30, "tier": "Bu", "gid": 7444 },
+      { "name": "Ra Pod Rune", "value": 100, "tier": "Su", "gid": 7445 }
+    ]
+  },
+  {
+    "statId": 214,
+    "name": "Neutral Resistance %",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Neutral Res Per Rune", "value": 1, "tier": "Normal", "gid": 7460 }
+    ]
+  },
+  {
+    "statId": 210,
+    "name": "Earth Resistance %",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Earth Res Per Rune", "value": 1, "tier": "Normal", "gid": 7459 }
+    ]
+  },
+  {
+    "statId": 213,
+    "name": "Fire Resistance %",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Fire Res Per Rune", "value": 1, "tier": "Normal", "gid": 7457 }
+    ]
+  },
+  {
+    "statId": 211,
+    "name": "Water Resistance %",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Water Res Per Rune", "value": 1, "tier": "Normal", "gid": 7560 }
+    ]
+  },
+  {
+    "statId": 212,
+    "name": "Air Resistance %",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Air Res Per Rune", "value": 1, "tier": "Normal", "gid": 7458 }
+    ]
+  },
+  {
+    "statId": 244,
+    "name": "Neutral Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Neutral Res Rune", "value": 1, "tier": "Normal", "gid": 7456 },
+      { "name": "Pa Neutral Res Rune", "value": 3, "tier": "Bu", "gid": 19341 },
+      { "name": "Ra Neutral Res Rune", "value": 10, "tier": "Su", "gid": 30696 }
+    ]
+  },
+  {
+    "statId": 240,
+    "name": "Earth Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Earth Res Rune", "value": 1, "tier": "Normal", "gid": 7455 },
+      { "name": "Pa Earth Res Rune", "value": 3, "tier": "Bu", "gid": 19342 },
+      { "name": "Ra Earth Res Rune", "value": 10, "tier": "Su", "gid": 30695 }
+    ]
+  },
+  {
+    "statId": 243,
+    "name": "Fire Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Fire Res Rune", "value": 1, "tier": "Normal", "gid": 7452 },
+      { "name": "Pa Fire Res Rune", "value": 3, "tier": "Bu", "gid": 19340 },
+      { "name": "Ra Fire Res Rune", "value": 10, "tier": "Su", "gid": 30697 }
+    ]
+  },
+  {
+    "statId": 241,
+    "name": "Water Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Water Res Rune", "value": 1, "tier": "Normal", "gid": 7454 },
+      { "name": "Pa Water Res Rune", "value": 3, "tier": "Bu", "gid": 19339 },
+      { "name": "Ra Water Res Rune", "value": 10, "tier": "Su", "gid": 30698 }
+    ]
+  },
+  {
+    "statId": 242,
+    "name": "Air Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Air Res Rune", "value": 1, "tier": "Normal", "gid": 7453 },
+      { "name": "Pa Air Res Rune", "value": 3, "tier": "Bu", "gid": 19338 },
+      { "name": "Ra Air Res Rune", "value": 10, "tier": "Su", "gid": 30700 }
+    ]
+  },
+  {
+    "statId": 753,
+    "name": "Lock",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Loc Rune", "value": 1, "tier": "Normal", "gid": 11639 },
+      { "name": "Pa Loc Rune", "value": 3, "tier": "Bu", "gid": 11640 }
+    ]
+  },
+  {
+    "statId": 752,
+    "name": "Dodge",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Dod Rune", "value": 1, "tier": "Normal", "gid": 11637 },
+      { "name": "Pa Dod Rune", "value": 3, "tier": "Bu", "gid": 11638 }
+    ]
+  },
+  {
+    "statId": 410,
+    "name": "AP Reduction",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Ap Red Rune", "value": 1, "tier": "Normal", "gid": 11645 },
+      { "name": "Pa Ap Red Rune", "value": 3, "tier": "Bu", "gid": 11646 }
+    ]
+  },
+  {
+    "statId": 412,
+    "name": "MP Reduction",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Mp Red Rune", "value": 1, "tier": "Normal", "gid": 11647 },
+      { "name": "Pa Mp Red Rune", "value": 3, "tier": "Bu", "gid": 11648 }
+    ]
+  },
+  {
+    "statId": 160,
+    "name": "AP Parry",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Ap Res Rune", "value": 1, "tier": "Normal", "gid": 11641 },
+      { "name": "Pa Ap Res Rune", "value": 3, "tier": "Bu", "gid": 11642 }
+    ]
+  },
+  {
+    "statId": 161,
+    "name": "MP Parry",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Mp Res Rune", "value": 1, "tier": "Normal", "gid": 11643 },
+      { "name": "Pa Mp Res Rune", "value": 3, "tier": "Bu", "gid": 11644 }
+    ]
+  },
+  {
+    "statId": 418,
+    "name": "Critical Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Cri Dam Rune", "value": 1, "tier": "Normal", "gid": 11653 },
+      { "name": "Pa Cri Dam Rune", "value": 3, "tier": "Bu", "gid": 11654 }
+    ]
+  },
+  {
+    "statId": 420,
+    "name": "Critical Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Cri Res Rune", "value": 1, "tier": "Normal", "gid": 11655 },
+      { "name": "Pa Cri Res Rune", "value": 3, "tier": "Bu", "gid": 11656 },
+      { "name": "Ra Cri Res Rune", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 414,
+    "name": "Pushback Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Psh Dam Rune", "value": 1, "tier": "Normal", "gid": 11649 },
+      { "name": "Pa Psh Dam Rune", "value": 3, "tier": "Bu", "gid": 11650 },
+      { "name": "Ra Psh Dam Rune", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 416,
+    "name": "Pushback Resistance",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Psh Res Rune", "value": 1, "tier": "Normal", "gid": 11651 },
+      { "name": "Pa Psh Res Rune", "value": 3, "tier": "Bu", "gid": 11652 },
+      { "name": "Ra Psh Res Rune", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 226,
+    "name": "Power (Traps)",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Trp Per Rune", "value": 1, "tier": "Normal", "gid": 7447 },
+      { "name": "Pa Trp Per Rune", "value": 3, "tier": "Bu", "gid": 10615 },
+      { "name": "Ra Trp Per Rune", "value": 10, "tier": "Su", "gid": 10616 }
+    ]
+  },
+  {
+    "statId": 225,
+    "name": "Trap Damage",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Trp Dam Rune", "value": 1, "tier": "Normal", "gid": 7446 },
+      { "name": "Pa Trp Dam Rune", "value": 3, "tier": "Bu", "gid": 10613 }
+    ]
+  },
+  {
+    "statId": 220,
+    "name": "Reflected Damage",
+    "weight": 5.0,
+    "max": 10,
+    "runes": [
+      { "name": "Dam Ref Rune", "value": 1, "tier": "Normal", "gid": 7437 },
+      { "name": "Pa Dam Ref Rune", "value": 3, "tier": "Bu", "gid": 30942 }
+    ]
+  },
+  {
+    "statId": 2880,
+    "name": "Melee Damage %",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Mel Dam Per Rune", "value": 1, "tier": "Normal", "gid": 18719 }
+    ]
+  },
+  {
+    "statId": 2804,
+    "name": "Ranged Damage %",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Dis Dam Per Rune", "value": 1, "tier": "Normal", "gid": 18720 }
+    ]
+  },
+  {
+    "statId": 2812,
+    "name": "Spell Damage %",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Spe Dam Per Rune", "value": 1, "tier": "Normal", "gid": 18722 }
+    ]
+  },
+  {
+    "statId": 2808,
+    "name": "Weapon Damage %",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Wep Dam Per Rune", "value": 1, "tier": "Normal", "gid": 18721 }
+    ]
+  },
+  {
+    "statId": 2803,
+    "name": "Melee Resistance %",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Mel Res Per Rune", "value": 1, "tier": "Normal", "gid": 18723 }
+    ]
+  },
+  {
+    "statId": 2807,
+    "name": "Ranged Resistance %",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Dis Res Per Rune", "value": 1, "tier": "Normal", "gid": 18724 }
+    ]
+  },
+  {
+    "statId": null,
+    "name": "Signature",
+    "weight": 0.0,
+    "runes": [
+      { "name": "Signature Rune", "value": 0, "tier": "Normal", "gid": null }
+    ]
+  }
+]

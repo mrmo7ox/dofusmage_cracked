@@ -1,0 +1,10 @@
+{
+  "ServerIp": "34.155.2.218",
+  "ServerPort": 5555,
+  "Language": "fr",
+  "AutoConnectProxy": true,
+  "NotificationEnabled": true,
+  "NotificationCorner": 3,
+  "SoundEnabled": true,
+  "EffectiveLanguage": "fr"
+}

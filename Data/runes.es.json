@@ -1,0 +1,572 @@
+[
+  {
+    "statId": 795,
+    "name": "Arma de caza",
+    "weight": 5.0,
+    "runes": [
+      { "name": "Runa de caza", "value": 1, "tier": "Normal", "gid": 10057 }
+    ]
+  },
+  {
+    "statId": 125,
+    "name": "Vitalidad",
+    "weight": 0.2,
+    "buThreshold": 168,
+    "suThreshold": 336,
+    "max": 505,
+    "runes": [
+      { "name": "Runa Vi", "value": 5, "tier": "Normal", "gid": 1523 },
+      { "name": "Bu Vi", "value": 15, "tier": "Bu", "gid": 1548 },
+      { "name": "Su Vi", "value": 50, "tier": "Su", "gid": 1554 }
+    ]
+  },
+  {
+    "statId": 118,
+    "name": "Fuerza",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Runa Fu", "value": 1, "tier": "Normal", "gid": 1519 },
+      { "name": "Bu Fu", "value": 3, "tier": "Bu", "gid": 1545 },
+      { "name": "Su Fu", "value": 10, "tier": "Su", "gid": 1551 }
+    ]
+  },
+  {
+    "statId": 126,
+    "name": "Inteligencia",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Runa Inte", "value": 1, "tier": "Normal", "gid": 1522 },
+      { "name": "Bu Inte", "value": 3, "tier": "Bu", "gid": 1547 },
+      { "name": "Su Inte", "value": 10, "tier": "Su", "gid": 1553 }
+    ]
+  },
+  {
+    "statId": 123,
+    "name": "Suerte",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Runa Sue", "value": 1, "tier": "Normal", "gid": 1525 },
+      { "name": "Bu Sue", "value": 3, "tier": "Bu", "gid": 1550 },
+      { "name": "Su Sue", "value": 10, "tier": "Su", "gid": 1556 }
+    ]
+  },
+  {
+    "statId": 119,
+    "name": "Agilidad",
+    "weight": 1.0,
+    "buThreshold": 33,
+    "suThreshold": 67,
+    "max": 101,
+    "runes": [
+      { "name": "Runa Agi", "value": 1, "tier": "Normal", "gid": 1524 },
+      { "name": "Bu Agi", "value": 3, "tier": "Bu", "gid": 1549 },
+      { "name": "Su Agi", "value": 10, "tier": "Su", "gid": 1555 }
+    ]
+  },
+  {
+    "statId": 124,
+    "name": "Sabiduria",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "suThreshold": 40,
+    "max": 60,
+    "runes": [
+      { "name": "Runa Sa", "value": 1, "tier": "Normal", "gid": 1521 },
+      { "name": "Bu Sa", "value": 3, "tier": "Bu", "gid": 1546 },
+      { "name": "Su Sa", "value": 10, "tier": "Su", "gid": 1552 }
+    ]
+  },
+  {
+    "statId": 138,
+    "name": "Potencia",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Pot", "value": 1, "tier": "Normal", "gid": 7436 },
+      { "name": "Bu Pot", "value": 3, "tier": "Bu", "gid": 10618 },
+      { "name": "Su Pot", "value": 10, "tier": "Su", "gid": 10619 }
+    ]
+  },
+  {
+    "statId": 115,
+    "name": "Critico",
+    "weight": 10.0,
+    "max": 10,
+    "runes": [
+      { "name": "Runa Cri", "value": 1, "tier": "Normal", "gid": 7433 }
+    ]
+  },
+  {
+    "statId": 111,
+    "name": "PA",
+    "weight": 100.0,
+    "max": 1,
+    "runes": [
+      { "name": "Ga PA", "value": 1, "tier": "Normal", "gid": 1557 }
+    ]
+  },
+  {
+    "statId": 128,
+    "name": "PM",
+    "weight": 90.0,
+    "max": 1,
+    "runes": [
+      { "name": "Ga PM", "value": 1, "tier": "Normal", "gid": 1558 }
+    ]
+  },
+  {
+    "statId": 117,
+    "name": "Alcance",
+    "weight": 51.0,
+    "max": 1,
+    "runes": [
+      { "name": "Runa Al", "value": 1, "tier": "Normal", "gid": 7438 }
+    ]
+  },
+  {
+    "statId": 182,
+    "name": "Invocacion",
+    "weight": 30.0,
+    "max": 3,
+    "runes": [
+      { "name": "Runa Invo", "value": 1, "tier": "Normal", "gid": 7442 }
+    ]
+  },
+  {
+    "statId": 112,
+    "name": "Dano",
+    "weight": 20.0,
+    "max": 5,
+    "runes": [
+      { "name": "Runa Da", "value": 1, "tier": "Normal", "gid": 7435 }
+    ]
+  },
+  {
+    "statId": 430,
+    "name": "Dano Neutral",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Neutral", "value": 1, "tier": "Normal", "gid": 11665 },
+      { "name": "Bu Da Neutral", "value": 3, "tier": "Bu", "gid": 11666 }
+    ]
+  },
+  {
+    "statId": 422,
+    "name": "Dano Tierra",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Tierra", "value": 1, "tier": "Normal", "gid": 11657 },
+      { "name": "Bu Da Tierra", "value": 3, "tier": "Bu", "gid": 11658 }
+    ]
+  },
+  {
+    "statId": 424,
+    "name": "Dano Fuego",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Fuego", "value": 1, "tier": "Normal", "gid": 11659 },
+      { "name": "Bu Da Fuego", "value": 3, "tier": "Bu", "gid": 11660 }
+    ]
+  },
+  {
+    "statId": 426,
+    "name": "Dano Agua",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Agua", "value": 1, "tier": "Normal", "gid": 11661 },
+      { "name": "Bu Da Agua", "value": 3, "tier": "Bu", "gid": 11662 }
+    ]
+  },
+  {
+    "statId": 428,
+    "name": "Dano Aire",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Aire", "value": 1, "tier": "Normal", "gid": 11663 },
+      { "name": "Bu Da Aire", "value": 3, "tier": "Bu", "gid": 11664 }
+    ]
+  },
+  {
+    "statId": 178,
+    "name": "Cura",
+    "weight": 10.0,
+    "buThreshold": 3,
+    "max": 10,
+    "runes": [
+      { "name": "Runa Cu", "value": 1, "tier": "Normal", "gid": 7434 },
+      { "name": "Bu Cu", "value": 3, "tier": "Bu", "gid": 19337 }
+    ]
+  },
+  {
+    "statId": 176,
+    "name": "Prospeccion",
+    "weight": 3.0,
+    "buThreshold": 11,
+    "max": 33,
+    "runes": [
+      { "name": "Runa Prospe", "value": 1, "tier": "Normal", "gid": 7451 },
+      { "name": "Bu Prospe", "value": 3, "tier": "Bu", "gid": 12838 }
+    ]
+  },
+  {
+    "statId": 174,
+    "name": "Iniciativa",
+    "weight": 0.1,
+    "buThreshold": 336,
+    "suThreshold": 673,
+    "max": 1010,
+    "runes": [
+      { "name": "Runa Ini", "value": 10, "tier": "Normal", "gid": 7448 },
+      { "name": "Bu Ini", "value": 30, "tier": "Bu", "gid": 7449 },
+      { "name": "Su Ini", "value": 100, "tier": "Su", "gid": 7450 }
+    ]
+  },
+  {
+    "statId": 158,
+    "name": "Pods",
+    "weight": 0.25,
+    "buThreshold": 134,
+    "suThreshold": 269,
+    "max": 404,
+    "runes": [
+      { "name": "Runa Pod", "value": 10, "tier": "Normal", "gid": 7443 },
+      { "name": "Bu Pod", "value": 30, "tier": "Bu", "gid": 7444 },
+      { "name": "Su Pod", "value": 100, "tier": "Su", "gid": 7445 }
+    ]
+  },
+  {
+    "statId": 214,
+    "name": "Resistencia % Neutral",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Runa Re Neutral Por", "value": 1, "tier": "Normal", "gid": 7460 }
+    ]
+  },
+  {
+    "statId": 210,
+    "name": "Resistencia % Tierra",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Runa Re Tierra Por", "value": 1, "tier": "Normal", "gid": 7459 }
+    ]
+  },
+  {
+    "statId": 213,
+    "name": "Resistencia % Fuego",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Runa Re Fuego Por", "value": 1, "tier": "Normal", "gid": 7457 }
+    ]
+  },
+  {
+    "statId": 211,
+    "name": "Resistencia % Agua",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Runa Re Agua Por", "value": 1, "tier": "Normal", "gid": 7560 }
+    ]
+  },
+  {
+    "statId": 212,
+    "name": "Resistencia % Aire",
+    "weight": 6.0,
+    "max": 16,
+    "runes": [
+      { "name": "Runa Re Aire Por", "value": 1, "tier": "Normal", "gid": 7458 }
+    ]
+  },
+  {
+    "statId": 244,
+    "name": "Resistencia Neutral",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Neutral", "value": 1, "tier": "Normal", "gid": 7456 },
+      { "name": "Bu Re Neutral", "value": 3, "tier": "Bu", "gid": 19341 },
+      { "name": "Su Re Neutral", "value": 10, "tier": "Su", "gid": 30696 }
+    ]
+  },
+  {
+    "statId": 240,
+    "name": "Resistencia Tierra",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Tierra", "value": 1, "tier": "Normal", "gid": 7455 },
+      { "name": "Bu Re Tierra", "value": 3, "tier": "Bu", "gid": 19342 },
+      { "name": "Su Re Tierra", "value": 10, "tier": "Su", "gid": 30695 }
+    ]
+  },
+  {
+    "statId": 243,
+    "name": "Resistencia Fuego",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Fuego", "value": 1, "tier": "Normal", "gid": 7452 },
+      { "name": "Bu Re Fuego", "value": 3, "tier": "Bu", "gid": 19340 },
+      { "name": "Su Re Fuego", "value": 10, "tier": "Su", "gid": 30697 }
+    ]
+  },
+  {
+    "statId": 241,
+    "name": "Resistencia Agua",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Agua", "value": 1, "tier": "Normal", "gid": 7454 },
+      { "name": "Bu Re Agua", "value": 3, "tier": "Bu", "gid": 19339 },
+      { "name": "Su Re Agua", "value": 10, "tier": "Su", "gid": 30698 }
+    ]
+  },
+  {
+    "statId": 242,
+    "name": "Resistencia Aire",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Aire", "value": 1, "tier": "Normal", "gid": 7453 },
+      { "name": "Bu Re Aire", "value": 3, "tier": "Bu", "gid": 19338 },
+      { "name": "Su Re Aire", "value": 10, "tier": "Su", "gid": 30700 }
+    ]
+  },
+  {
+    "statId": 753,
+    "name": "Placaje",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Runa Pla", "value": 1, "tier": "Normal", "gid": 11639 },
+      { "name": "Bu Pla", "value": 3, "tier": "Bu", "gid": 11640 }
+    ]
+  },
+  {
+    "statId": 752,
+    "name": "Huida",
+    "weight": 4.0,
+    "buThreshold": 8,
+    "max": 25,
+    "runes": [
+      { "name": "Runa Hui", "value": 1, "tier": "Normal", "gid": 11637 },
+      { "name": "Bu Hui", "value": 3, "tier": "Bu", "gid": 11638 }
+    ]
+  },
+  {
+    "statId": 410,
+    "name": "Retiro PA",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Runa Ret PA", "value": 1, "tier": "Normal", "gid": 11645 },
+      { "name": "Bu Ret PA", "value": 3, "tier": "Bu", "gid": 11646 }
+    ]
+  },
+  {
+    "statId": 412,
+    "name": "Retiro PM",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Runa Ret PM", "value": 1, "tier": "Normal", "gid": 11647 },
+      { "name": "Bu Ret PM", "value": 3, "tier": "Bu", "gid": 11648 }
+    ]
+  },
+  {
+    "statId": 160,
+    "name": "Esquiva PA",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Runa Re PA", "value": 1, "tier": "Normal", "gid": 11641 },
+      { "name": "Bu Re PA", "value": 3, "tier": "Bu", "gid": 11642 }
+    ]
+  },
+  {
+    "statId": 161,
+    "name": "Esquiva PM",
+    "weight": 7.0,
+    "buThreshold": 4,
+    "max": 14,
+    "runes": [
+      { "name": "Runa Re PM", "value": 1, "tier": "Normal", "gid": 11643 },
+      { "name": "Bu Re PM", "value": 3, "tier": "Bu", "gid": 11644 }
+    ]
+  },
+  {
+    "statId": 418,
+    "name": "Dano Critico",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Cri", "value": 1, "tier": "Normal", "gid": 11653 },
+      { "name": "Bu Da Cri", "value": 3, "tier": "Bu", "gid": 11654 }
+    ]
+  },
+  {
+    "statId": 420,
+    "name": "Resistencia Critico",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Cri", "value": 1, "tier": "Normal", "gid": 11655 },
+      { "name": "Bu Re Cri", "value": 3, "tier": "Bu", "gid": 11656 },
+      { "name": "Su Re Cri", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 414,
+    "name": "Dano Empuje",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Emp", "value": 1, "tier": "Normal", "gid": 11649 },
+      { "name": "Bu Da Emp", "value": 3, "tier": "Bu", "gid": 11650 },
+      { "name": "Su Da Emp", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 416,
+    "name": "Resistencia Empuje",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Re Emp", "value": 1, "tier": "Normal", "gid": 11651 },
+      { "name": "Bu Re Emp", "value": 3, "tier": "Bu", "gid": 11652 },
+      { "name": "Su Re Emp", "value": 10, "tier": "Su", "gid": null }
+    ]
+  },
+  {
+    "statId": 226,
+    "name": "Potencia Trampas",
+    "weight": 2.0,
+    "buThreshold": 16,
+    "suThreshold": 33,
+    "max": 50,
+    "runes": [
+      { "name": "Runa Por Tram", "value": 1, "tier": "Normal", "gid": 7447 },
+      { "name": "Bu Por Tram", "value": 3, "tier": "Bu", "gid": 10615 },
+      { "name": "Su Por Tram", "value": 10, "tier": "Su", "gid": 10616 }
+    ]
+  },
+  {
+    "statId": 225,
+    "name": "Dano Trampas",
+    "weight": 5.0,
+    "buThreshold": 6,
+    "max": 20,
+    "runes": [
+      { "name": "Runa Da Tram", "value": 1, "tier": "Normal", "gid": 7446 },
+      { "name": "Da Bu Tram", "value": 3, "tier": "Bu", "gid": 10613 }
+    ]
+  },
+  {
+    "statId": 220,
+    "name": "Reenvio Dano",
+    "weight": 5.0,
+    "max": 10,
+    "runes": [
+      { "name": "Runa Da Reen", "value": 1, "tier": "Normal", "gid": 7437 },
+      { "name": "Runa Bu Da Reen", "value": 3, "tier": "Bu", "gid": 30942 }
+    ]
+  },
+  {
+    "statId": 2880,
+    "name": "Dano % CaC",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Da Por CC", "value": 1, "tier": "Normal", "gid": 18719 }
+    ]
+  },
+  {
+    "statId": 2804,
+    "name": "Dano % Distancia",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Da Por Di", "value": 1, "tier": "Normal", "gid": 18720 }
+    ]
+  },
+  {
+    "statId": 2812,
+    "name": "Dano % Hechizo",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Da Por He", "value": 1, "tier": "Normal", "gid": 18722 }
+    ]
+  },
+  {
+    "statId": 2808,
+    "name": "Dano % Arma",
+    "weight": 15.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Da Por Ar", "value": 1, "tier": "Normal", "gid": 18721 }
+    ]
+  },
+  {
+    "statId": 2803,
+    "name": "Resistencia % CaC",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Re Por CC", "value": 1, "tier": "Normal", "gid": 18723 }
+    ]
+  },
+  {
+    "statId": 2807,
+    "name": "Resistencia % Distancia",
+    "weight": 10.0,
+    "max": 6,
+    "runes": [
+      { "name": "Runa Re Por Di", "value": 1, "tier": "Normal", "gid": 18724 }
+    ]
+  },
+  {
+    "statId": null,
+    "name": "Firma",
+    "weight": 0.0,
+    "runes": [
+      { "name": "Runa de Firma", "value": 0, "tier": "Normal", "gid": null }
+    ]
+  }
+]
