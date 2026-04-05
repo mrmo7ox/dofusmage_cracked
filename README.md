@@ -11,10 +11,10 @@ The key result was reaching the main features without a valid authenticated sess
 
 ### Main UI (After Bypass)
 
-![before](/screenshots/before.png)
+![before](screenshots/before.png)
 
 ### To
 
-![after](/screenshots/after.png)
+![after](screenshots/after.png)
 
 
